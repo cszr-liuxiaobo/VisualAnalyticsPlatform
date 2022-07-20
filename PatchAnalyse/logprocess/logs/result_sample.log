@@ -1,0 +1,12 @@
+sample_Precision:[0.73 0.   1.   0.37 0.   0.  ]
+sample_Recall:[0.79 0.   0.5  0.88 0.   0.  ]
+sample_f1_score:[0.76 0.   0.67 0.52 0.   0.  ]
+sample_accuracy_score:0.627906976744186
+sample_time_consumption:0小时:0分钟:1.6842896938323975秒
+sample_eachimg_time_consum:0小时:0分钟:0.039169527763544126秒
+sample_Precision:[0.73 0.   1.   0.37 0.   0.  ]
+sample_Recall:[0.79 0.   0.5  0.88 0.   0.  ]
+sample_f1_score:[0.76 0.   0.67 0.52 0.   0.  ]
+sample_accuracy_score:0.627906976744186
+sample_time_consumption:0小时:0分钟:1.7931716442108154秒
+sample_eachimg_time_consum:0小时:0分钟:0.04170166614443757秒
