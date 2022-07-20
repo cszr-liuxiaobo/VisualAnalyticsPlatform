@@ -1,0 +1,1 @@
+the original and labled image path has been changed to 'P:\project_bak\video_process\frames_ori'
